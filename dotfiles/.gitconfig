@@ -2,3 +2,6 @@
 [user]
 name = Jeremy Levy
 email = jje.levy@gmail.com
+
+[pull]
+rebase = false
